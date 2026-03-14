@@ -129,7 +129,6 @@ hospital-readmission-prediction/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/hospital-readmission-prediction.git
 
 # 2. Install dependencies
 pip install -r requirements.txt
